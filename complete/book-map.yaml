@@ -1,0 +1,619 @@
+analytics:
+  track_accessibility_compliance: true
+  track_build_metrics: true
+  track_file_optimization: true
+  track_user_engagement: true
+book:
+  accessibility_summary: 'This EPUB targets WCAG 2.2 Level AA. Pages use semantic
+    HTML, high-contrast design, descriptive alt text, keyboard focus indicators, and
+    aria-labels where appropriate.
+
+    '
+  author: MD Warren
+  css:
+  - OEBPS/styles/fonts.css
+  - OEBPS/styles/style.css
+  date: '2025-05-27'
+  description: 'An interactive journey of creative mastery, business growth, and self-reflection
+    for stylists, blending artistry, entrepreneurship, and personal development. This
+    comprehensive guide combines biblical wisdom with practical business acumen, featuring
+    worksheets, self-assessments, and professional development tools.
+
+    '
+  embedded_fonts:
+  - OEBPS/fonts/librebaskerville-bold.woff2
+  - OEBPS/fonts/librebaskerville-italic.woff2
+  - OEBPS/fonts/librebaskerville-regular.woff2
+  - OEBPS/fonts/Montserrat-Bold.woff2
+  - OEBPS/fonts/Montserrat-Regular.woff2
+  - OEBPS/fonts/CinzelDecorative.woff2
+  epub_version: 3.2
+  identifier:
+    scheme: UUID
+    text: urn:uuid:9fa5e2ef-5fd8-4f5b-9077-0b9e856cda3d
+  isbn: 978-0-000-00000-0
+  language: en-US
+  publisher: MD Warren
+  rights: "\xA9 2025 MD Warren. All rights reserved."
+  subject:
+  - Nonfiction
+  - Beauty
+  - Business
+  - Personal Development
+  - Hairstyling
+  - Entrepreneurship
+  - Professional Growth
+  - Self-Help
+  subtitle: A Journey of Self-Discovery
+  title: "Curls & Contemplation: A Stylist\u2019s Interactive Journey Journal"
+  toc: true
+  toc_depth: 2
+build:
+  optimization:
+    compress_images: true
+    minify_css: false
+    optimize_fonts: true
+  output:
+    filename_prefix: curls-and-contemplation
+    generate_reports: true
+    include_timestamp: true
+  validation:
+    accessibility_check: true
+    css_validation: true
+    epub_check: true
+    image_validation: true
+distribution:
+  apple_books:
+    categories:
+    - Lifestyle & Home
+    - Business & Personal Finance
+    enabled: true
+  ingram_spark:
+    enabled: true
+    paper_type: white
+    trim_size: 6x9
+  kindle_direct_publishing:
+    categories:
+    - Crafts, Hobbies & Home > Beauty, Grooming & Style
+    - Business & Money > Small Business & Entrepreneurship
+    enabled: true
+files:
+- description: Title Page
+  id: 1
+  input: title_page.md
+  meta:
+    author: MD Warren
+    display_title: Curls & Contemplation
+    subtitle: "A Stylist\u2019s Interactive Journey Journal"
+  output: OEBPS/text/fm-title.xhtml
+  role: frontmatter
+  section: Front Matter
+  template: OEBPS/templates/fm-title.xhtml.j2
+- description: Copyright
+  id: 2
+  input: copyright.md
+  meta:
+    title: Copyright
+  output: OEBPS/text/fm-copyright.xhtml
+  role: frontmatter
+  section: Front Matter
+  template: OEBPS/templates/fm-static.xhtml.j2
+- description: Table of Contents
+  id: 3
+  input: table_of_contents.md
+  meta: {}
+  output: OEBPS/text/fm-toc.xhtml
+  role: frontmatter
+  section: Front Matter
+  template: OEBPS/templates/fm-toc.xhtml.j2
+- description: Dedication
+  id: 4
+  input: dedication.md
+  meta:
+    title: Dedication
+  output: OEBPS/text/fm-dedication.xhtml
+  role: frontmatter
+  section: Front Matter
+  template: OEBPS/templates/fm-static.xhtml.j2
+- description: Self-Assessment 1
+  id: 5
+  input: self_assessment.md
+  meta:
+    ws:
+      id: fm-sa1
+      prompts: []
+      title: Self-Assessment 1
+  output: OEBPS/text/fm-self.xhtml
+  role: frontmatter
+  section: Front Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Affirmation Odyssey
+  id: 6
+  input: affirmation_odyssey.md
+  meta:
+    ws:
+      id: fm-affirmation
+      prompts: []
+      title: Affirmation Odyssey
+  output: OEBPS/text/fm-affirmation.xhtml
+  role: frontmatter
+  section: Front Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Preface
+  id: 7
+  image:
+    alt: Preface inspirational quote image.
+    src: OEBPS/images/preface-quote.JPEG
+  input: preface.md
+  meta:
+    title: Preface
+  output: OEBPS/text/fm-preface.xhtml
+  role: frontmatter
+  section: Front Matter
+  template: OEBPS/templates/fm-static.xhtml.j2
+- description: 'Part I: Foundations of Creative Hairstyling'
+  id: 8
+  input: 8-Part-I-Foundations-of-Creative-Hairstyling.md
+  meta:
+    part:
+      roman: I
+      title: Foundations of Creative Hairstyling
+  output: OEBPS/text/8-part-i-foundations-of-creative-hairstyling.xhtml
+  role: part
+  section: Part Divider
+  template: OEBPS/templates/part.xhtml.j2
+- description: Chapter I
+  id: 9
+  image:
+    alt: Chapter I quote image.
+    src: OEBPS/images/chapter-i-quote.JPEG
+  input: 9-Chapter-I-Unveiling-Your-Creative-Odyssey.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/9-Chapter-I-Unveiling-Your-Creative-Odyssey.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter II
+  id: 10
+  image:
+    alt: Chapter II quote image.
+    src: OEBPS/images/chapter-ii-quote.JPEG
+  input: 10-Chapter-II-Refining-Your-Creative-Toolkit.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/10-Chapter-II-Refining-Your-Creative-Toolkit.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter III
+  id: 11
+  image:
+    alt: Chapter III quote image.
+    src: OEBPS/images/chapter-iii-quote.JPEG
+  input: 11-Chapter-III-Reigniting-Your-Creative-Fire.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/11-Chapter-III-Reigniting-Your-Creative-Fire.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Part II
+  id: 12
+  input: 12-Part-II-Building-Your-Professional-Practice.md
+  meta:
+    part:
+      roman: II
+      title: Building Your Professional Practice
+  output: OEBPS/text/12-part-ii-building-your-professional-practice.xhtml
+  role: part
+  section: Part Divider
+  template: OEBPS/templates/part.xhtml.j2
+- description: Chapter IV
+  id: 13
+  image:
+    alt: Chapter IV quote image.
+    src: OEBPS/images/chapter-iv-quote.JPEG
+  input: 13-Chapter-IV-The-Art-of-Networking-in-Freelance-Hairstyling.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/13-Chapter-IV-The-Art-of-Networking-in-Freelance-Hairstyling.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter V
+  id: 14
+  image:
+    alt: Chapter V quote image.
+    src: OEBPS/images/chapter-v-quote.JPEG
+  input: 14-Chapter-V-Cultivating-Creative-Excellence-Through-Mentorship.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/14-Chapter-V-Cultivating-Creative-Excellence-Through-Mentorship.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter VI
+  id: 15
+  image:
+    alt: Chapter VI quote image.
+    src: OEBPS/images/chapter-vi-quote.JPEG
+  input: 15-Chapter-VI-Mastering-the-Business-of-Hairstyling.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/15-Chapter-VI-Mastering-the-Business-of-Hairstyling.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter VII
+  id: 16
+  image:
+    alt: Chapter VII quote image.
+    src: OEBPS/images/chapter-vii-quote.JPEG
+  input: 16-Chapter-VII-Embracing-Wellness-and-Self-Care.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/16-Chapter-VII-Embracing-Wellness-and-Self-Care.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter VIII
+  id: 17
+  image:
+    alt: Chapter VIII quote image.
+    src: OEBPS/images/chapter-viii-quote.JPEG
+  input: 17-Chapter-VIII-Advancing-Skills-Through-Continuous-Education.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/17-Chapter-VIII-Advancing-Skills-Through-Continuous-Education.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Part III
+  id: 18
+  input: 18-Part-III-Advanced-Business-Strategies.md
+  meta:
+    part:
+      roman: III
+      title: Advanced Business Strategies
+  output: OEBPS/text/18-part-iii-advanced-business-strategies.xhtml
+  role: part
+  section: Part Divider
+  template: OEBPS/templates/part.xhtml.j2
+- description: Chapter IX
+  id: 19
+  image:
+    alt: Chapter IX quote image.
+    src: OEBPS/images/chapter-ix-quote.JPEG
+  input: 19-Chapter-IX-Stepping-Into-Leadership.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/19-Chapter-IX-Stepping-Into-Leadership.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter X
+  id: 20
+  image:
+    alt: Chapter X quote image.
+    src: OEBPS/images/chapter-x-quote.JPEG
+  input: 20-Chapter-X-Crafting-Enduring-Legacies.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/20-Chapter-X-Crafting-Enduring-Legacies.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter XI
+  id: 21
+  image:
+    alt: Chapter XI quote image.
+    src: OEBPS/images/chapter-xi-quote.JPEG
+  input: 21-Chapter-XI-Advanced-Digital-Strategies-for-Freelance-Hairstylists.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/21-Chapter-XI-Advanced-Digital-Strategies-for-Freelance-Hairstylists.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter XII
+  id: 22
+  image:
+    alt: Chapter XII quote image.
+    src: OEBPS/images/chapter-xii-quote.JPEG
+  input: 22-Chapter-XII-Financial-Wisdom-Building-Sustainable-Ventures.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/22-Chapter-XII-Financial-Wisdom-Building-Sustainable-Ventures.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter XIII
+  id: 23
+  image:
+    alt: Chapter XIII quote image.
+    src: OEBPS/images/chapter-xiii-quote.JPEG
+  input: 23-Chapter-XIII-Embracing-Ethics-and-Sustainability-in-Hairstyling.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/23-Chapter-XIII-Embracing-Ethics-and-Sustainability-in-Hairstyling.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Part IV
+  id: 24
+  input: 24-Part-IV-Future-Focused-Growth.md
+  meta:
+    part:
+      roman: IV
+      title: Future-Focused Growth
+  output: OEBPS/text/24-part-iv-future-focused-growth.xhtml
+  role: part
+  section: Part Divider
+  template: OEBPS/templates/part.xhtml.j2
+- description: Chapter XIV
+  id: 25
+  image:
+    alt: Chapter XIV quote image.
+    src: OEBPS/images/chapter-xiv-quote.JPEG
+  input: 25-Chapter-XIV-The-Impact-of-AI-on-the-Beauty-Industry.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/25-Chapter-XIV-The-Impact-of-AI-on-the-Beauty-Industry.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter XV
+  id: 26
+  image:
+    alt: Chapter XV quote image.
+    src: OEBPS/images/chapter-xv-quote.JPEG
+  input: 26-Chapter-XV-Cultivating-Resilience-and-Well-Being-in-Hairstyling.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/26-Chapter-XV-Cultivating-Resilience-and-Well-Being-in-Hairstyling.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Chapter XVI
+  id: 27
+  image:
+    alt: Chapter XVI quote image.
+    src: OEBPS/images/chapter-xvi-quote.JPEG
+  input: 27-Chapter-XVI-Tresses-and-Textures-Embracing-Diversity-in-Hairstyling.md
+  meta:
+    include_quiz: true
+    include_worksheet: true
+  output: OEBPS/text/27-Chapter-XVI-Tresses-and-Textures-Embracing-Diversity-in-Hairstyling.xhtml
+  role: chapter
+  section: Chapter
+  template: OEBPS/templates/chapter-template.xhtml
+- description: Conclusion
+  id: 28
+  image:
+    alt: Conclusion inspirational quote image.
+    src: OEBPS/images/conclusion-quote.JPEG
+  input: 28-Conclusion.md
+  meta:
+    title: Conclusion
+  output: OEBPS/text/28-conclusion.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/fm-static.xhtml.j2
+- description: Answer Key
+  id: 29
+  input: 29-Quiz-Key.md
+  meta:
+    quiz:
+      questions: []
+      title: Answer Key
+  output: OEBPS/text/29-Quiz-Key.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/chap-quiz-key.xhtml.j2
+- description: Self-Assessment
+  id: 30
+  input: 30-Self-Assessment.md
+  meta:
+    ws:
+      id: bm-sa
+      prompts: []
+      title: Self-Assessment
+  output: OEBPS/text/30-Self-Assessment.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Affirmations Close
+  id: 31
+  input: 31-Affirmations-Close.md
+  meta:
+    ws:
+      id: bm-affirmation
+      prompts: []
+      title: Affirmations Close
+  output: OEBPS/text/31-Affirmations-Close.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Continued Learning Commitment
+  id: 32
+  input: 32-Continued-Learning-Commitment.md
+  meta:
+    ws:
+      id: bm-continue
+      prompts: []
+      title: Continued Learning Commitment
+  output: OEBPS/text/32-Continued-Learning-Commitment.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Acknowledgments
+  id: 33
+  input: 33-Acknowledgments.md
+  meta:
+    title: Acknowledgments
+  output: OEBPS/text/33-acknowledgments.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/fm-static.xhtml.j2
+- description: About the Author
+  id: 34
+  input: 34-About-the-Author.md
+  meta:
+    title: About the Author
+  output: OEBPS/text/34-About-the-Author.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/fm-static.xhtml.j2
+- description: Curls & Contemp Collective
+  id: 35
+  input: 35-Curls-Contemp-Collective.md
+  meta:
+    title: Curls & Contemp Collective
+  output: OEBPS/text/35-Curls-Contemp-Collective.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/fm-static.xhtml.j2
+- description: Journaling Start
+  id: 36
+  input: 36-Journaling-Start.md
+  meta:
+    ws:
+      id: bm-journal-start
+      prompts: []
+      title: Journaling Start
+  output: OEBPS/text/36-Journaling-Start.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Manifesting Journal
+  id: 37
+  input: 37-Manifesting-Journal.md
+  meta:
+    ws:
+      id: bm-manifest
+      prompts: []
+      title: Manifesting Journal
+  output: OEBPS/text/37-Manifesting-Journal.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Journal Page
+  id: 38
+  input: 38-Journal-Page.md
+  meta:
+    ws:
+      id: bm-jpage
+      prompts: []
+      title: Journal Page
+  output: OEBPS/text/38-Journal-Page.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Professional Development
+  id: 39
+  input: 39-Professional-Development.md
+  meta:
+    ws:
+      id: bm-pro-dev
+      prompts: []
+      title: Professional Development
+  output: OEBPS/text/39-Professional-Development.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: SMART Goals
+  id: 40
+  input: 40-SMART-Goals.md
+  meta:
+    ws:
+      id: bm-smart
+      prompts: []
+      title: SMART Goals
+  output: OEBPS/text/40-SMART-Goals.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Self-Care Journal
+  id: 41
+  input: 41-Self-Care-Journal.md
+  meta:
+    ws:
+      id: bm-self-care
+      prompts: []
+      title: Self-Care Journal
+  output: OEBPS/text/41-Self-Care-Journal.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Vision Journal
+  id: 42
+  input: 42-Vision-Journal.md
+  meta:
+    ws:
+      id: bm-vision
+      prompts: []
+      title: Vision Journal
+  output: OEBPS/text/42-Vision-Journal.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Doodle Page
+  id: 43
+  input: 43-Doodle-Page.md
+  meta:
+    ws:
+      id: bm-doodle
+      prompts: []
+      title: Doodle Page
+  output: OEBPS/text/43-Doodle-Page.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/worksheet.xhtml.j2
+- description: Bibliography
+  id: 44
+  input: 44-bibliography.md
+  meta:
+    title: Bibliography
+  output: OEBPS/text/44-bibliography.xhtml
+  role: backmatter
+  section: Back Matter
+  template: OEBPS/templates/fm-static.xhtml.j2
+mcp_integration:
+  accessibility_check: true
+  enabled: true
+  seo_optimization: true
+  servers_used:
+  - Filesystem
+  - Fetch
+  - Sequential Thinking
+  - Memory
+  - Everything
+  - Pandoc-MCP
+  validation_level: professional
+quality_checks:
+  accessibility_compliance: WCAG 2.2 Level AA
+  chapter_count: 16
+  file_size_target: < 50MB
+  image_count: 19
+  word_count_minimum: 50000
+version:
+  build_date: '2025-01-27'
+  major: 1
+  minor: 0
+  patch: 0
