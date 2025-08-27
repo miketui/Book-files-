@@ -1,0 +1,1260 @@
+{
+  "fact_checking": [],
+  "consistency": [],
+  "citations": [],
+  "readability": {
+    "1-TitlePage.xhtml": {
+      "avg_sentence_length": 23.0,
+      "avg_word_length": 6.217391304347826,
+      "total_words": 23,
+      "total_sentences": 1
+    },
+    "10-chapter-ii-refining-your-creative-toolkit.xhtml": {
+      "avg_sentence_length": 15.788990825688073,
+      "avg_word_length": 5.281812899477048,
+      "total_words": 3442,
+      "total_sentences": 218
+    },
+    "11-chapter-iii-reigniting-your-creative-fire.xhtml": {
+      "avg_sentence_length": 15.269461077844312,
+      "avg_word_length": 5.369019607843137,
+      "total_words": 2550,
+      "total_sentences": 167
+    },
+    "12-Part-II-Building-Your-Professional-Practice.xhtml": {
+      "avg_sentence_length": 21.0,
+      "avg_word_length": 5.863945578231292,
+      "total_words": 147,
+      "total_sentences": 7
+    },
+    "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml": {
+      "avg_sentence_length": 16.59927797833935,
+      "avg_word_length": 5.705306655067421,
+      "total_words": 4598,
+      "total_sentences": 277
+    },
+    "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml": {
+      "avg_sentence_length": 19.20212765957447,
+      "avg_word_length": 5.6264081255771,
+      "total_words": 5415,
+      "total_sentences": 282
+    },
+    "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml": {
+      "avg_sentence_length": 18.46586345381526,
+      "avg_word_length": 5.704001739886907,
+      "total_words": 4598,
+      "total_sentences": 249
+    },
+    "16-chapter-vii-embracing-wellness-and-self-care.xhtml": {
+      "avg_sentence_length": 16.698224852071007,
+      "avg_word_length": 5.4631467044649185,
+      "total_words": 2822,
+      "total_sentences": 169
+    },
+    "17-chapter-viii-advancing-skills-through-continuous-education.xhtml": {
+      "avg_sentence_length": 17.255434782608695,
+      "avg_word_length": 5.835748031496063,
+      "total_words": 6350,
+      "total_sentences": 368
+    },
+    "18-Part-III-Advanced-Business-Strategies.xhtml": {
+      "avg_sentence_length": 20.857142857142858,
+      "avg_word_length": 5.97945205479452,
+      "total_words": 146,
+      "total_sentences": 7
+    },
+    "19-chapter-ix-stepping-into-leadership.xhtml": {
+      "avg_sentence_length": 17.323076923076922,
+      "avg_word_length": 5.650088809946714,
+      "total_words": 5630,
+      "total_sentences": 325
+    },
+    "2-Copyright.xhtml": {
+      "avg_sentence_length": 13.75,
+      "avg_word_length": 5.327272727272727,
+      "total_words": 55,
+      "total_sentences": 4
+    },
+    "20-chapter-x-crafting-enduring-legacies.xhtml": {
+      "avg_sentence_length": 18.380664652567976,
+      "avg_word_length": 5.549967126890204,
+      "total_words": 6084,
+      "total_sentences": 331
+    },
+    "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml": {
+      "avg_sentence_length": 20.279693486590038,
+      "avg_word_length": 5.718873984507841,
+      "total_words": 5293,
+      "total_sentences": 261
+    },
+    "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml": {
+      "avg_sentence_length": 21.228346456692915,
+      "avg_word_length": 6.022440652818991,
+      "total_words": 5392,
+      "total_sentences": 254
+    },
+    "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml": {
+      "avg_sentence_length": 20.367781155015198,
+      "avg_word_length": 5.967019847783913,
+      "total_words": 6701,
+      "total_sentences": 329
+    },
+    "24-Part-IV-Future-Focused-Growth.xhtml": {
+      "avg_sentence_length": 21.0,
+      "avg_word_length": 5.619047619047619,
+      "total_words": 147,
+      "total_sentences": 7
+    },
+    "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml": {
+      "avg_sentence_length": 23.28688524590164,
+      "avg_word_length": 6.079197465681098,
+      "total_words": 5682,
+      "total_sentences": 244
+    },
+    "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml": {
+      "avg_sentence_length": 16.98841698841699,
+      "avg_word_length": 5.462045454545454,
+      "total_words": 4400,
+      "total_sentences": 259
+    },
+    "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml": {
+      "avg_sentence_length": 18.251063829787235,
+      "avg_word_length": 5.960830030310095,
+      "total_words": 4289,
+      "total_sentences": 235
+    },
+    "28-Conclusion.xhtml": {
+      "avg_sentence_length": 23.258064516129032,
+      "avg_word_length": 4.8169209431345354,
+      "total_words": 721,
+      "total_sentences": 31
+    },
+    "29QuizKey.xhtml": {
+      "avg_sentence_length": 5.880597014925373,
+      "avg_word_length": 3.0736040609137056,
+      "total_words": 394,
+      "total_sentences": 67
+    },
+    "3-TableOfContents.xhtml": {
+      "avg_sentence_length": 214.0,
+      "avg_word_length": 6.364485981308412,
+      "total_words": 214,
+      "total_sentences": 1
+    },
+    "30-SelfAssessment.xhtml": {
+      "avg_sentence_length": 25.0,
+      "avg_word_length": 4.816666666666666,
+      "total_words": 300,
+      "total_sentences": 12
+    },
+    "31-affirmations-close.xhtml": {
+      "avg_sentence_length": 18.166666666666668,
+      "avg_word_length": 5.059633027522936,
+      "total_words": 436,
+      "total_sentences": 24
+    },
+    "32-continued-learning-commitment.xhtml": {
+      "avg_sentence_length": 31.785714285714285,
+      "avg_word_length": 5.651685393258427,
+      "total_words": 445,
+      "total_sentences": 14
+    },
+    "33-Acknowledgments.xhtml": {
+      "avg_sentence_length": 15.542857142857143,
+      "avg_word_length": 4.693014705882353,
+      "total_words": 544,
+      "total_sentences": 35
+    },
+    "34-AbouttheAuthor.xhtml": {
+      "avg_sentence_length": 14.85483870967742,
+      "avg_word_length": 5.150922909880564,
+      "total_words": 921,
+      "total_sentences": 62
+    },
+    "35-CurlsContempCollective.xhtml": {
+      "avg_sentence_length": 21.133333333333333,
+      "avg_word_length": 5.794952681388013,
+      "total_words": 634,
+      "total_sentences": 30
+    },
+    "36-JournalingStart.xhtml": {
+      "avg_sentence_length": 17.823529411764707,
+      "avg_word_length": 5.405940594059406,
+      "total_words": 303,
+      "total_sentences": 17
+    },
+    "37-ManifestingJournal.xhtml": {
+      "avg_sentence_length": 13.142857142857142,
+      "avg_word_length": 5.5978260869565215,
+      "total_words": 552,
+      "total_sentences": 42
+    },
+    "38-journal-page.xhtml": {
+      "avg_sentence_length": 23.19047619047619,
+      "avg_word_length": 5.3203285420944555,
+      "total_words": 487,
+      "total_sentences": 21
+    },
+    "39-professional-development.xhtml": {
+      "avg_sentence_length": 32.0,
+      "avg_word_length": 6.8875,
+      "total_words": 160,
+      "total_sentences": 5
+    },
+    "4-Dedication.xhtml": {
+      "avg_sentence_length": 17.058823529411764,
+      "avg_word_length": 4.944827586206896,
+      "total_words": 290,
+      "total_sentences": 17
+    },
+    "40-SMARTGoals.xhtml": {
+      "avg_sentence_length": 12.472222222222221,
+      "avg_word_length": 5.20935412026726,
+      "total_words": 449,
+      "total_sentences": 36
+    },
+    "41-self-care-journal.xhtml": {
+      "avg_sentence_length": 21.6,
+      "avg_word_length": 5.050925925925926,
+      "total_words": 216,
+      "total_sentences": 10
+    },
+    "42-VisionJournal.xhtml": {
+      "avg_sentence_length": 14.818181818181818,
+      "avg_word_length": 5.809815950920245,
+      "total_words": 163,
+      "total_sentences": 11
+    },
+    "43-DoodlePage.xhtml": {
+      "avg_sentence_length": 24.42105263157895,
+      "avg_word_length": 5.549568965517241,
+      "total_words": 464,
+      "total_sentences": 19
+    },
+    "44-bibliography.xhtml": {
+      "avg_sentence_length": 3.2119866814650386,
+      "avg_word_length": 5.1782999308915,
+      "total_words": 2894,
+      "total_sentences": 901
+    },
+    "5-SelfAssessment.xhtml": {
+      "avg_sentence_length": 13.19047619047619,
+      "avg_word_length": 5.0108303249097474,
+      "total_words": 277,
+      "total_sentences": 21
+    },
+    "6-affirmation-odyssey.xhtml": {
+      "avg_sentence_length": 9.722222222222221,
+      "avg_word_length": 4.977142857142857,
+      "total_words": 175,
+      "total_sentences": 18
+    },
+    "7-Preface.xhtml": {
+      "avg_sentence_length": 18.956521739130434,
+      "avg_word_length": 5.4610091743119265,
+      "total_words": 436,
+      "total_sentences": 23
+    },
+    "8-Part-I-Foundations-of-Creative-Hairstyling.xhtml": {
+      "avg_sentence_length": 24.0,
+      "avg_word_length": 5.534722222222222,
+      "total_words": 144,
+      "total_sentences": 6
+    },
+    "9-chapter-i-unveiling-your-creative-odyssey.xhtml": {
+      "avg_sentence_length": 14.715328467153284,
+      "avg_word_length": 5.819444444444445,
+      "total_words": 4032,
+      "total_sentences": 274
+    }
+  },
+  "domain_coverage": {
+    "1-TitlePage.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 1,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "10-chapter-ii-refining-your-creative-toolkit.xhtml": {
+      "hair_types": 8,
+      "techniques": 1,
+      "products": 0,
+      "tools": 5,
+      "business_terms": 2
+    },
+    "11-chapter-iii-reigniting-your-creative-fire.xhtml": {
+      "hair_types": 3,
+      "techniques": 0,
+      "products": 1,
+      "tools": 1,
+      "business_terms": 3
+    },
+    "12-Part-II-Building-Your-Professional-Practice.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 2
+    },
+    "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 1,
+      "tools": 1,
+      "business_terms": 5
+    },
+    "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml": {
+      "hair_types": 2,
+      "techniques": 0,
+      "products": 0,
+      "tools": 1,
+      "business_terms": 3
+    },
+    "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 6
+    },
+    "16-chapter-vii-embracing-wellness-and-self-care.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 1,
+      "business_terms": 3
+    },
+    "17-chapter-viii-advancing-skills-through-continuous-education.xhtml": {
+      "hair_types": 2,
+      "techniques": 0,
+      "products": 0,
+      "tools": 1,
+      "business_terms": 4
+    },
+    "18-Part-III-Advanced-Business-Strategies.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "19-chapter-ix-stepping-into-leadership.xhtml": {
+      "hair_types": 2,
+      "techniques": 1,
+      "products": 0,
+      "tools": 1,
+      "business_terms": 5
+    },
+    "2-Copyright.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 1,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "20-chapter-x-crafting-enduring-legacies.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 1,
+      "business_terms": 5
+    },
+    "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml": {
+      "hair_types": 2,
+      "techniques": 0,
+      "products": 0,
+      "tools": 2,
+      "business_terms": 6
+    },
+    "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 3,
+      "tools": 2,
+      "business_terms": 6
+    },
+    "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 3,
+      "tools": 2,
+      "business_terms": 5
+    },
+    "24-Part-IV-Future-Focused-Growth.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 1,
+      "business_terms": 4
+    },
+    "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml": {
+      "hair_types": 2,
+      "techniques": 0,
+      "products": 1,
+      "tools": 1,
+      "business_terms": 4
+    },
+    "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml": {
+      "hair_types": 6,
+      "techniques": 2,
+      "products": 1,
+      "tools": 1,
+      "business_terms": 4
+    },
+    "28-Conclusion.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "29QuizKey.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "3-TableOfContents.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "30-SelfAssessment.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "31-affirmations-close.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "32-continued-learning-commitment.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "33-Acknowledgments.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "34-AbouttheAuthor.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 1,
+      "tools": 0,
+      "business_terms": 2
+    },
+    "35-CurlsContempCollective.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "36-JournalingStart.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "37-ManifestingJournal.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "38-journal-page.xhtml": {
+      "hair_types": 2,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "39-professional-development.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "4-Dedication.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 2,
+      "business_terms": 1
+    },
+    "40-SMARTGoals.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 2
+    },
+    "41-self-care-journal.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "42-VisionJournal.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "43-DoodlePage.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 1
+    },
+    "44-bibliography.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 5
+    },
+    "5-SelfAssessment.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 2
+    },
+    "6-affirmation-odyssey.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 0
+    },
+    "7-Preface.xhtml": {
+      "hair_types": 1,
+      "techniques": 0,
+      "products": 0,
+      "tools": 0,
+      "business_terms": 2
+    },
+    "8-Part-I-Foundations-of-Creative-Hairstyling.xhtml": {
+      "hair_types": 0,
+      "techniques": 0,
+      "products": 0,
+      "tools": 1,
+      "business_terms": 1
+    },
+    "9-chapter-i-unveiling-your-creative-odyssey.xhtml": {
+      "hair_types": 4,
+      "techniques": 0,
+      "products": 0,
+      "tools": 3,
+      "business_terms": 5
+    }
+  },
+  "accessibility": [
+    "32-continued-learning-commitment.xhtml: Images may need alt text descriptions for accessibility"
+  ],
+  "links": {
+    "1-TitlePage.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "10-chapter-ii-refining-your-creative-toolkit.xhtml": {
+      "internal": [],
+      "external": [
+        "https://www.creativityresearchjournal.org/extended-mind",
+        "https://www.dyson.com/hair-care/dyson-supersonic",
+        "https://www.t3micro.com/hair",
+        "https://www.vogue.com/article/chris-appleton-interview",
+        "https://www.modernsalon.com/pricing-guide",
+        "https://www.salonbusinessjournal.com/cost-efficiency",
+        "https://www.osha.gov/salon-safety",
+        "https://www.harpersbazaar.com/beauty/hair",
+        "https://www.allure.com/story/kim-kimble-interview",
+        "https://www.americansalon.com/career-development"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5",
+        "#fnref6",
+        "#fnref7",
+        "#fnref8",
+        "#fnref9",
+        "#fnref10",
+        "#fnref11",
+        "#fnref12"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "11-chapter-iii-reigniting-your-creative-fire.xhtml": {
+      "internal": [],
+      "external": [
+        "https://www.allure.com/story/jen-atkin-profile",
+        "https://www.mckinsey.com/industries/beauty",
+        "https://www.vogue.com/article/celebrity-stylists-pandemic",
+        "https://www.startwithwhy.com",
+        "https://www.mindsetworks.com",
+        "https://www.harpersbazaar.com/beauty/hair",
+        "https://www.vogue.com/article/tokyo-stylez-interview"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5",
+        "#fnref6",
+        "#fnref7",
+        "#fnref8"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "12-Part-II-Building-Your-Professional-Practice.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml": {
+      "internal": [],
+      "external": [
+        "https://www.jstor.org/stable/2776392",
+        "https://www.goodhairbook.com",
+        "https://behindthechair.com/interview/ted-gibson",
+        "https://www.nielsen.com/us/en/insights/report/2021/global-trust-in-advertising/",
+        "https://www.essence.com/style/ursula-stephen",
+        "https://www.modernsalon.com/article/2020/06/nick-stenson",
+        "https://www.probeauty.org",
+        "https://www.americansalon.com",
+        "https://www.beautyindependent.com/kristin-ess-interview"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5",
+        "#fnref6",
+        "#fnref7"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml": {
+      "internal": [],
+      "external": [
+        "https://psycnet.apa.org/fulltext/2004-15660-007.html",
+        "https://www.vogue.com/article/yusef-williams-interview",
+        "https://www.modernsalon.com/article/naeemah-lafond",
+        "https://www.harpersbazaar.com/beauty/hair",
+        "https://wwd.com/beauty-industry-news/hair/marco-reyes-profile",
+        "https://www.europeanhairpro.com/HHNG"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5",
+        "#fnref6",
+        "#fnref7",
+        "#fnref8"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml": {
+      "internal": [],
+      "external": [
+        "https://www.uky.edu/~eushe2/Bandura/Bandura1997EP.pdf",
+        "https://quickbooks.intuit.com",
+        "https://www.modernsalon.com/revenue-diversification",
+        "https://www.salesforce.com",
+        "https://hootsuite.com/resources/social-media-marketing",
+        "https://wwd.com/beauty-industry-news/hair/marquetta-breslin-profile",
+        "https://www.salonbusinessjournal.com"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5",
+        "#fnref6",
+        "#fnref7",
+        "#fnref8",
+        "#fnref9",
+        "#fnref10"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "16-chapter-vii-embracing-wellness-and-self-care.xhtml": {
+      "internal": [],
+      "external": [
+        "http://Healthcare.gov",
+        "https://www.osha.gov/ergonomics",
+        "https://www.hoffmaninstitute.org/glamour-columnist-and-hair-stylist-to-the-stars-jen-atkin-shares-her-self-care-tips-to-get-us-through-lockdown/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7883474/",
+        "https://www.healthline.com",
+        "https://www.freelancersunion.org"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "17-chapter-viii-advancing-skills-through-continuous-education.xhtml": {
+      "internal": [],
+      "external": [
+        "https://www.aveda.com/education",
+        "https://www.americansalon.com/education/sam-villa-education-self-care",
+        "https://www.hairbrained.me",
+        "https://www.jes.org",
+        "https://www.unesco.org",
+        "https://www.vogue.com/article/top-stylist-mentorship",
+        "https://www.behindthechair.com",
+        "https://www.salontoday.com",
+        "https://hbr.org",
+        "https://www.americansalon.com",
+        "https://www.nahaawards.com",
+        "https://www.youtube.com",
+        "https://www.uschamber.com",
+        "https://www.wella.com",
+        "https://www.linkedin.com/learning",
+        "https://www.forbes.com",
+        "https://www.entrepreneur.com"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5",
+        "#fnref6",
+        "#fnref7",
+        "#fnref8",
+        "#fnref9",
+        "#fnref10",
+        "#fnref11",
+        "#fnref12",
+        "#fnref13",
+        "#fnref14",
+        "#fnref15",
+        "#fnref16",
+        "#fnref17",
+        "#fnref18"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "18-Part-III-Advanced-Business-Strategies.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "19-chapter-ix-stepping-into-leadership.xhtml": {
+      "internal": [],
+      "external": [
+        "https://www.salontoday.com",
+        "https://www.startwithwhy.com",
+        "https://www.essence.com",
+        "https://www.behindthechair.com",
+        "https://www.jstor.org/stable/2776392",
+        "https://hbr.org"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5",
+        "#fnref6"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "2-Copyright.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "20-chapter-x-crafting-enduring-legacies.xhtml": {
+      "internal": [],
+      "external": [
+        "https://www.olahpex.com",
+        "https://www.mielleorganics.com",
+        "https://www.osha.gov/ergonomics",
+        "https://www.hsph.harvard.edu/nutritionsource",
+        "https://quickbooks.intuit.com"
+      ],
+      "email": [],
+      "anchor": [
+        "#fnref1",
+        "#fnref2",
+        "#fnref3",
+        "#fnref4",
+        "#fnref5",
+        "#fnref6",
+        "#fnref7"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "24-Part-IV-Future-Focused-Growth.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml": {
+      "internal": [],
+      "external": [
+        "https://www.apa.org/topics/resilience",
+        "https://www.hairstylistinsider.com/johnny-wright",
+        "https://www.modernsalon.com/tabatha-takes-over-self-care",
+        "https://doi.org/10.1177/0022146510383501",
+        "https://www.osha.gov/ergonomics/hairdressers",
+        "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service"
+      ],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "28-Conclusion.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "29QuizKey.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "3-TableOfContents.xhtml": {
+      "internal": [
+        "1-titlepage.xhtml",
+        "2-copyright.xhtml",
+        "3-tableofcontents.xhtml",
+        "4-dedication.xhtml",
+        "5-selfassessment.xhtml",
+        "6-affirmation-odyssey.xhtml",
+        "7-preface.xhtml",
+        "8-part-i-foundations-of-creative-hairstyling.xhtml",
+        "9-Chapter-I-Unveiling-Your-Creative-Odyssey.xhtml",
+        "10-Chapter-II-Refining-Your-Creative-Toolkit.xhtml",
+        "11-Chapter-III-Reigniting-Your-Creative-Fire.xhtml",
+        "12-part-ii-building-your-professional-practice.xhtml",
+        "13-Chapter-IV-The-Art-of-Networking-in-Freelance-Hairstyling.xhtml",
+        "14-Chapter-V-Cultivating-Creative-Excellence-Through-Mentorship.xhtml",
+        "15-Chapter-VI-Mastering-the-Business-of-Hairstyling.xhtml",
+        "16-Chapter-VII-Embracing-Wellness-and-Self-Care.xhtml",
+        "17-Chapter-VIII-Advancing-Skills-Through-Continuous-Education.xhtml",
+        "18-part-iii-advanced-business-strategies.xhtml",
+        "19-Chapter-IX-Stepping-Into-Leadership.xhtml",
+        "20-Chapter-X-Crafting-Enduring-Legacies.xhtml",
+        "21-Chapter-XI-Advanced-Digital-Strategies-for-Freelance-Hairstylists.xhtml",
+        "22-Chapter-XII-Financial-Wisdom-Building-Sustainable-Ventures.xhtml",
+        "23-Chapter-XIII-Embracing-Ethics-and-Sustainability-in-Hairstyling.xhtml",
+        "24-part-iv-future-focused-growth.xhtml",
+        "25-Chapter-XIV-The-Impact-of-AI-on-the-Beauty-Industry.xhtml",
+        "26-Chapter-XV-Cultivating-Resilience-and-Well-Being-in-Hairstyling.xhtml",
+        "27-Chapter-XVI-Tresses-and-Textures-Embracing-Diversity-in-Hairstyling.xhtml",
+        "28Conclusion.xhtml",
+        "29quizkey.xhtml",
+        "30SelfAssessment.xhtml",
+        "31AffirmationsClose.xhtml",
+        "32ContinuedLearningCommitment.xhtml",
+        "33Acknowledgments.xhtml",
+        "34AbouttheAuthor.xhtml",
+        "35CurlsContempCollective.xhtml",
+        "36JournalingStart.xhtml",
+        "37ManifestingJournal.xhtml",
+        "38JournalPage.xhtml",
+        "39ProfessionalDevelopment.xhtml",
+        "40SMARTGoals.xhtml",
+        "41SelfCareJournal.xhtml",
+        "42VisionJournal.xhtml",
+        "43DoodlePage.xhtml"
+      ],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "30-SelfAssessment.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "31-affirmations-close.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "32-continued-learning-commitment.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "33-Acknowledgments.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "34-AbouttheAuthor.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "35-CurlsContempCollective.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "36-JournalingStart.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "37-ManifestingJournal.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "38-journal-page.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "39-professional-development.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "4-Dedication.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "40-SMARTGoals.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "41-self-care-journal.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "42-VisionJournal.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "43-DoodlePage.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "44-bibliography.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "5-SelfAssessment.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "6-affirmation-odyssey.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "7-Preface.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "8-Part-I-Foundations-of-Creative-Hairstyling.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    },
+    "9-chapter-i-unveiling-your-creative-odyssey.xhtml": {
+      "internal": [],
+      "external": [],
+      "email": [],
+      "anchor": [
+        "#fn-1",
+        "#fn-2",
+        "#fn-3",
+        "#fn-4",
+        "#fn-5",
+        "#fn-7",
+        "#fn-6",
+        "#fn-8",
+        "#fn-10",
+        "#fn-9"
+      ],
+      "relative": [
+        "../styles/fonts.css",
+        "../styles/style.css"
+      ]
+    }
+  }
+}

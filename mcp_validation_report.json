@@ -1,0 +1,1945 @@
+{
+  "summary": {
+    "errors": 1,
+    "warnings": 303,
+    "fixes_applied": 0
+  },
+  "xml_validation": {
+    "wellformed": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "xhtml_compliant": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "content_quality": {
+    "spelling": [
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "7-Preface.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Possible misspelling: 'clientele' → 'clientele'",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Possible misspelling: 'clientele' → 'clientele'"
+    ],
+    "grammar": [
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Grammar suggestion: Should be 'too much/many' - 'to many'",
+      "31-affirmations-close.xhtml: Grammar suggestion: Consider 'its' instead of 'it's' (possessive) - 'it's time'"
+    ],
+    "quality": [
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Word 'tools' used 54 times - consider varying vocabulary",
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Very long sentence (42 words) at position 18 - consider breaking up",
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Very long sentence (46 words) at position 93 - consider breaking up",
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Very long sentence (48 words) at position 173 - consider breaking up",
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Very long sentence (44 words) at position 174 - consider breaking up",
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Very long sentence (47 words) at position 176 - consider breaking up",
+      "11-chapter-iii-reigniting-your-creative-fire.xhtml: Word 'creative' used 26 times - consider varying vocabulary",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Word 'networking' used 69 times - consider varying vocabulary",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Word 'industry' used 33 times - consider varying vocabulary",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Word 'network' used 21 times - consider varying vocabulary",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Word 'professional' used 24 times - consider varying vocabulary",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Word 'events' used 23 times - consider varying vocabulary",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Word 'relationships' used 27 times - consider varying vocabulary",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Very long sentence (44 words) at position 15 - consider breaking up",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Very long sentence (47 words) at position 242 - consider breaking up",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Very long sentence (53 words) at position 243 - consider breaking up",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Word 'their' used 38 times - consider varying vocabulary",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Word 'values' used 25 times - consider varying vocabulary",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Word 'industry' used 39 times - consider varying vocabulary",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Word 'mentors' used 30 times - consider varying vocabulary",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Word 'mentees' used 36 times - consider varying vocabulary",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Word 'mentor' used 47 times - consider varying vocabulary",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Word 'marco' used 23 times - consider varying vocabulary",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Very long sentence (41 words) at position 11 - consider breaking up",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Very long sentence (51 words) at position 220 - consider breaking up",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Very long sentence (49 words) at position 222 - consider breaking up",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Very long sentence (64 words) at position 223 - consider breaking up",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Word 'business' used 53 times - consider varying vocabulary",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Word 'financial' used 21 times - consider varying vocabulary",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Word 'income' used 25 times - consider varying vocabulary",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Word 'values' used 22 times - consider varying vocabulary",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Word 'client' used 48 times - consider varying vocabulary",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Word 'services' used 21 times - consider varying vocabulary",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Word 'clients' used 34 times - consider varying vocabulary",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Very long sentence (119 words) at position 68 - consider breaking up",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Very long sentence (43 words) at position 214 - consider breaking up",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Very long sentence (47 words) at position 215 - consider breaking up",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Very long sentence (55 words) at position 216 - consider breaking up",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Very long sentence (60 words) at position 217 - consider breaking up",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Very long sentence (54 words) at position 33 - consider breaking up",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Very long sentence (95 words) at position 115 - consider breaking up",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Very long sentence (47 words) at position 131 - consider breaking up",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Very long sentence (41 words) at position 132 - consider breaking up",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Very long sentence (49 words) at position 133 - consider breaking up",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Very long sentence (63 words) at position 134 - consider breaking up",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'skills' used 33 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'through' used 23 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'education' used 62 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'their' used 40 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'learning' used 68 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'industry' used 39 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'techniques' used 40 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'professional' used 22 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'these' used 25 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'feedback' used 28 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Word 'educational' used 25 times - consider varying vocabulary",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Very long sentence (44 words) at position 36 - consider breaking up",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Very long sentence (77 words) at position 279 - consider breaking up",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Very long sentence (54 words) at position 310 - consider breaking up",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Very long sentence (49 words) at position 311 - consider breaking up",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Very long sentence (74 words) at position 312 - consider breaking up",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Very long sentence (58 words) at position 313 - consider breaking up",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Very long sentence (80 words) at position 314 - consider breaking up",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'leadership' used 78 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'vision' used 33 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'clients' used 25 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'others' used 28 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'innovation' used 23 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'industry' used 51 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'their' used 32 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'client' used 25 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Word 'social' used 21 times - consider varying vocabulary",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Very long sentence (64 words) at position 241 - consider breaking up",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Very long sentence (42 words) at position 244 - consider breaking up",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Very long sentence (42 words) at position 299 - consider breaking up",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Very long sentence (47 words) at position 300 - consider breaking up",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Very long sentence (46 words) at position 301 - consider breaking up",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Very long sentence (52 words) at position 302 - consider breaking up",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Very long sentence (76 words) at position 307 - consider breaking up",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Word 'legacy' used 29 times - consider varying vocabulary",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Word 'their' used 24 times - consider varying vocabulary",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Word 'industry' used 26 times - consider varying vocabulary",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Word 'mielle' used 22 times - consider varying vocabulary",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Word 'tools' used 21 times - consider varying vocabulary",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Very long sentence (222 words) at position 29 - consider breaking up",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Very long sentence (50 words) at position 247 - consider breaking up",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Very long sentence (41 words) at position 248 - consider breaking up",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Very long sentence (52 words) at position 249 - consider breaking up",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Very long sentence (60 words) at position 250 - consider breaking up",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Very long sentence (73 words) at position 252 - consider breaking up",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Word 'digital' used 62 times - consider varying vocabulary",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Word 'audience' used 24 times - consider varying vocabulary",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Word 'client' used 26 times - consider varying vocabulary",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Word 'content' used 61 times - consider varying vocabulary",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Word 'create' used 27 times - consider varying vocabulary",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Word 'steps' used 21 times - consider varying vocabulary",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Word 'their' used 21 times - consider varying vocabulary",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Very long sentence (43 words) at position 18 - consider breaking up",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Very long sentence (57 words) at position 44 - consider breaking up",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Very long sentence (53 words) at position 45 - consider breaking up",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Very long sentence (45 words) at position 254 - consider breaking up",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Very long sentence (60 words) at position 255 - consider breaking up",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Very long sentence (41 words) at position 256 - consider breaking up",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Very long sentence (61 words) at position 257 - consider breaking up",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Very long sentence (72 words) at position 260 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Word 'financial' used 116 times - consider varying vocabulary",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Word 'business' used 43 times - consider varying vocabulary",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Word 'growth' used 29 times - consider varying vocabulary",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Word 'pricing' used 35 times - consider varying vocabulary",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Word 'client' used 22 times - consider varying vocabulary",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Word 'services' used 30 times - consider varying vocabulary",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Word 'costs' used 24 times - consider varying vocabulary",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Word 'service' used 24 times - consider varying vocabulary",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (43 words) at position 105 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (60 words) at position 132 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (63 words) at position 139 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (61 words) at position 146 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (41 words) at position 179 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (88 words) at position 219 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (41 words) at position 236 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (44 words) at position 238 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (140 words) at position 242 - consider breaking up",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Very long sentence (54 words) at position 252 - consider breaking up",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'sustainability' used 81 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'salon' used 57 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'energy' used 66 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'client' used 28 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'impact' used 22 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'products' used 50 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'waste' used 39 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'beauty' used 24 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'environmental' used 31 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'their' used 36 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'ethical' used 22 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'sustainable' used 67 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'practices' used 62 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'friendly' used 51 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'biodegradable' used 26 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'industry' used 32 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'efficient' used 25 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'these' used 25 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'clients' used 62 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'recycling' used 24 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'product' used 21 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'costs' used 24 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'tools' used 23 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Word 'suppliers' used 21 times - consider varying vocabulary",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Very long sentence (43 words) at position 14 - consider breaking up",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Very long sentence (50 words) at position 105 - consider breaking up",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Very long sentence (53 words) at position 109 - consider breaking up",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Very long sentence (135 words) at position 244 - consider breaking up",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Very long sentence (46 words) at position 309 - consider breaking up",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Very long sentence (48 words) at position 311 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'beauty' used 28 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'virtual' used 22 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'personalized' used 25 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'product' used 31 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'clients' used 47 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'brands' used 23 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'products' used 21 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'these' used 34 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'tools' used 32 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'human' used 29 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'client' used 64 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'development' used 25 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'technology' used 27 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'create' used 21 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Word 'their' used 27 times - consider varying vocabulary",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (68 words) at position 35 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (77 words) at position 52 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (77 words) at position 73 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (71 words) at position 80 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (80 words) at position 88 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (41 words) at position 167 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (44 words) at position 233 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (57 words) at position 235 - consider breaking up",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Very long sentence (77 words) at position 236 - consider breaking up",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Word 'support' used 21 times - consider varying vocabulary",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Word 'financial' used 22 times - consider varying vocabulary",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Very long sentence (42 words) at position 1 - consider breaking up",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Very long sentence (161 words) at position 141 - consider breaking up",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Very long sentence (157 words) at position 204 - consider breaking up",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Very long sentence (44 words) at position 242 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'textures' used 44 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'diversity' used 24 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'textured' used 31 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'cultural' used 34 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'diverse' used 21 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'clients' used 21 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'texture' used 90 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'product' used 26 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Word 'education' used 22 times - consider varying vocabulary",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (44 words) at position 1 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (41 words) at position 10 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (42 words) at position 20 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (89 words) at position 21 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (41 words) at position 137 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (177 words) at position 157 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (54 words) at position 212 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (43 words) at position 213 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (59 words) at position 214 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (48 words) at position 218 - consider breaking up",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Very long sentence (45 words) at position 232 - consider breaking up",
+      "3-TableOfContents.xhtml: Very long sentence (209 words) at position 1 - consider breaking up",
+      "30-SelfAssessment.xhtml: Very long sentence (43 words) at position 1 - consider breaking up",
+      "30-SelfAssessment.xhtml: Very long sentence (65 words) at position 11 - consider breaking up",
+      "31-affirmations-close.xhtml: Very long sentence (41 words) at position 16 - consider breaking up",
+      "32-continued-learning-commitment.xhtml: Very long sentence (49 words) at position 7 - consider breaking up",
+      "32-continued-learning-commitment.xhtml: Very long sentence (44 words) at position 8 - consider breaking up",
+      "32-continued-learning-commitment.xhtml: Very long sentence (51 words) at position 9 - consider breaking up",
+      "32-continued-learning-commitment.xhtml: Very long sentence (43 words) at position 10 - consider breaking up",
+      "32-continued-learning-commitment.xhtml: Very long sentence (80 words) at position 11 - consider breaking up",
+      "33-Acknowledgments.xhtml: Very long sentence (43 words) at position 24 - consider breaking up",
+      "34-AbouttheAuthor.xhtml: Very long sentence (43 words) at position 17 - consider breaking up",
+      "38-journal-page.xhtml: Very long sentence (101 words) at position 4 - consider breaking up",
+      "38-journal-page.xhtml: Very long sentence (104 words) at position 18 - consider breaking up",
+      "39-professional-development.xhtml: Very long sentence (100 words) at position 3 - consider breaking up",
+      "4-Dedication.xhtml: Very long sentence (65 words) at position 10 - consider breaking up",
+      "41-self-care-journal.xhtml: Very long sentence (136 words) at position 8 - consider breaking up",
+      "43-DoodlePage.xhtml: Very long sentence (173 words) at position 3 - consider breaking up",
+      "44-bibliography.xhtml: Word 'https' used 119 times - consider varying vocabulary",
+      "44-bibliography.xhtml: Word 'accessed' used 87 times - consider varying vocabulary",
+      "44-bibliography.xhtml: Word 'march' used 88 times - consider varying vocabulary",
+      "44-bibliography.xhtml: Word 'salon' used 21 times - consider varying vocabulary",
+      "44-bibliography.xhtml: Word 'beauty' used 32 times - consider varying vocabulary",
+      "7-Preface.xhtml: Very long sentence (43 words) at position 3 - consider breaking up",
+      "7-Preface.xhtml: Very long sentence (46 words) at position 5 - consider breaking up",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Word 'clients' used 34 times - consider varying vocabulary",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Word 'actionable' used 27 times - consider varying vocabulary",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Word 'steps' used 28 times - consider varying vocabulary",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Very long sentence (43 words) at position 110 - consider breaking up"
+    ]
+  },
+  "structure_validation": {
+    "css": [],
+    "aciss": [
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Missing or incorrect title page structure",
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Missing or incorrect quiz section",
+      "10-chapter-ii-refining-your-creative-toolkit.xhtml: Missing or incorrect worksheet section",
+      "11-chapter-iii-reigniting-your-creative-fire.xhtml: Missing or incorrect title page structure",
+      "11-chapter-iii-reigniting-your-creative-fire.xhtml: Missing or incorrect quiz section",
+      "11-chapter-iii-reigniting-your-creative-fire.xhtml: Missing or incorrect worksheet section",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Missing or incorrect title page structure",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Missing or incorrect quiz section",
+      "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml: Missing or incorrect worksheet section",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Missing or incorrect title page structure",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Missing or incorrect quiz section",
+      "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml: Missing or incorrect worksheet section",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Missing or incorrect title page structure",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Missing or incorrect quiz section",
+      "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml: Missing or incorrect worksheet section",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Missing or incorrect title page structure",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Missing or incorrect quiz section",
+      "16-chapter-vii-embracing-wellness-and-self-care.xhtml: Missing or incorrect worksheet section",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Missing or incorrect title page structure",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Missing or incorrect quiz section",
+      "17-chapter-viii-advancing-skills-through-continuous-education.xhtml: Missing or incorrect worksheet section",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Missing or incorrect title page structure",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Missing or incorrect quiz section",
+      "19-chapter-ix-stepping-into-leadership.xhtml: Missing or incorrect worksheet section",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Missing or incorrect title page structure",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Missing or incorrect quiz section",
+      "20-chapter-x-crafting-enduring-legacies.xhtml: Missing or incorrect worksheet section",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Missing or incorrect title page structure",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Missing or incorrect quiz section",
+      "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml: Missing or incorrect worksheet section",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Missing or incorrect title page structure",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Missing or incorrect quiz section",
+      "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml: Missing or incorrect worksheet section",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Missing or incorrect title page structure",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Missing or incorrect quiz section",
+      "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml: Missing or incorrect worksheet section",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Missing or incorrect title page structure",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Missing or incorrect quiz section",
+      "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml: Missing or incorrect worksheet section",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Missing or incorrect title page structure",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Missing or incorrect quiz section",
+      "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml: Missing or incorrect worksheet section",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Missing or incorrect title page structure",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Missing or incorrect quiz section",
+      "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Missing or incorrect worksheet section",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Missing or incorrect title page structure",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Missing or incorrect quiz section",
+      "9-chapter-i-unveiling-your-creative-odyssey.xhtml: Missing or incorrect worksheet section"
+    ]
+  },
+  "file_size_issues": [
+    "ruled-paper.PNG: Image file too large: 1.83MB (should be < 1MB)"
+  ],
+  "epub_valid": false,
+  "detailed_errors": [
+    {
+      "message": "EPUBCheck validation failed",
+      "file": "curls-and-contemplation.epub",
+      "type": "error"
+    }
+  ],
+  "detailed_warnings": [
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'tools' used 54 times - consider varying vocabulary",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (42 words) at position 18 - consider breaking up",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (46 words) at position 93 - consider breaking up",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (48 words) at position 173 - consider breaking up",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (44 words) at position 174 - consider breaking up",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (47 words) at position 176 - consider breaking up",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'creative' used 26 times - consider varying vocabulary",
+      "file": "11-chapter-iii-reigniting-your-creative-fire.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Grammar suggestion: Should be 'too much/many' - 'to many'",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'networking' used 69 times - consider varying vocabulary",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'industry' used 33 times - consider varying vocabulary",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'network' used 21 times - consider varying vocabulary",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'professional' used 24 times - consider varying vocabulary",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'events' used 23 times - consider varying vocabulary",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'relationships' used 27 times - consider varying vocabulary",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (44 words) at position 15 - consider breaking up",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (47 words) at position 242 - consider breaking up",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (53 words) at position 243 - consider breaking up",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'their' used 38 times - consider varying vocabulary",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'values' used 25 times - consider varying vocabulary",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'industry' used 39 times - consider varying vocabulary",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'mentors' used 30 times - consider varying vocabulary",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'mentees' used 36 times - consider varying vocabulary",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'mentor' used 47 times - consider varying vocabulary",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'marco' used 23 times - consider varying vocabulary",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 11 - consider breaking up",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (51 words) at position 220 - consider breaking up",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (49 words) at position 222 - consider breaking up",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (64 words) at position 223 - consider breaking up",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'business' used 53 times - consider varying vocabulary",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'financial' used 21 times - consider varying vocabulary",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'income' used 25 times - consider varying vocabulary",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'values' used 22 times - consider varying vocabulary",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'client' used 48 times - consider varying vocabulary",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'services' used 21 times - consider varying vocabulary",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'clients' used 34 times - consider varying vocabulary",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (119 words) at position 68 - consider breaking up",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 214 - consider breaking up",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (47 words) at position 215 - consider breaking up",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (55 words) at position 216 - consider breaking up",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (60 words) at position 217 - consider breaking up",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (54 words) at position 33 - consider breaking up",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (95 words) at position 115 - consider breaking up",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (47 words) at position 131 - consider breaking up",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 132 - consider breaking up",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (49 words) at position 133 - consider breaking up",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (63 words) at position 134 - consider breaking up",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'skills' used 33 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'through' used 23 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'education' used 62 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'their' used 40 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'learning' used 68 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'industry' used 39 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'techniques' used 40 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'professional' used 22 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'these' used 25 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'feedback' used 28 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'educational' used 25 times - consider varying vocabulary",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (44 words) at position 36 - consider breaking up",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (77 words) at position 279 - consider breaking up",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (54 words) at position 310 - consider breaking up",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (49 words) at position 311 - consider breaking up",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (74 words) at position 312 - consider breaking up",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (58 words) at position 313 - consider breaking up",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (80 words) at position 314 - consider breaking up",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'leadership' used 78 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'vision' used 33 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'clients' used 25 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'others' used 28 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'innovation' used 23 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'industry' used 51 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'their' used 32 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'client' used 25 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'social' used 21 times - consider varying vocabulary",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (64 words) at position 241 - consider breaking up",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (42 words) at position 244 - consider breaking up",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (42 words) at position 299 - consider breaking up",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (47 words) at position 300 - consider breaking up",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (46 words) at position 301 - consider breaking up",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (52 words) at position 302 - consider breaking up",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (76 words) at position 307 - consider breaking up",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'legacy' used 29 times - consider varying vocabulary",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'their' used 24 times - consider varying vocabulary",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'industry' used 26 times - consider varying vocabulary",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'mielle' used 22 times - consider varying vocabulary",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'tools' used 21 times - consider varying vocabulary",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (222 words) at position 29 - consider breaking up",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (50 words) at position 247 - consider breaking up",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 248 - consider breaking up",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (52 words) at position 249 - consider breaking up",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (60 words) at position 250 - consider breaking up",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (73 words) at position 252 - consider breaking up",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'digital' used 62 times - consider varying vocabulary",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'audience' used 24 times - consider varying vocabulary",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'client' used 26 times - consider varying vocabulary",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'content' used 61 times - consider varying vocabulary",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'create' used 27 times - consider varying vocabulary",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'steps' used 21 times - consider varying vocabulary",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'their' used 21 times - consider varying vocabulary",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 18 - consider breaking up",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (57 words) at position 44 - consider breaking up",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (53 words) at position 45 - consider breaking up",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (45 words) at position 254 - consider breaking up",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (60 words) at position 255 - consider breaking up",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 256 - consider breaking up",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (61 words) at position 257 - consider breaking up",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (72 words) at position 260 - consider breaking up",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'financial' used 116 times - consider varying vocabulary",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'business' used 43 times - consider varying vocabulary",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'growth' used 29 times - consider varying vocabulary",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'pricing' used 35 times - consider varying vocabulary",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'client' used 22 times - consider varying vocabulary",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'services' used 30 times - consider varying vocabulary",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'costs' used 24 times - consider varying vocabulary",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'service' used 24 times - consider varying vocabulary",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 105 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (60 words) at position 132 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (63 words) at position 139 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (61 words) at position 146 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 179 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (88 words) at position 219 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 236 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (44 words) at position 238 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (140 words) at position 242 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (54 words) at position 252 - consider breaking up",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'sustainability' used 81 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'salon' used 57 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'energy' used 66 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'client' used 28 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'impact' used 22 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'products' used 50 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'waste' used 39 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'beauty' used 24 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'environmental' used 31 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'their' used 36 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'ethical' used 22 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'sustainable' used 67 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'practices' used 62 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'friendly' used 51 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'biodegradable' used 26 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'industry' used 32 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'efficient' used 25 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'these' used 25 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'clients' used 62 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'recycling' used 24 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'product' used 21 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'costs' used 24 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'tools' used 23 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'suppliers' used 21 times - consider varying vocabulary",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 14 - consider breaking up",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (50 words) at position 105 - consider breaking up",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (53 words) at position 109 - consider breaking up",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (135 words) at position 244 - consider breaking up",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (46 words) at position 309 - consider breaking up",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (48 words) at position 311 - consider breaking up",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'beauty' used 28 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'virtual' used 22 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'personalized' used 25 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'product' used 31 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'clients' used 47 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'brands' used 23 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'products' used 21 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'these' used 34 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'tools' used 32 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'human' used 29 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'client' used 64 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'development' used 25 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'technology' used 27 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'create' used 21 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'their' used 27 times - consider varying vocabulary",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (68 words) at position 35 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (77 words) at position 52 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (77 words) at position 73 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (71 words) at position 80 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (80 words) at position 88 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 167 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (44 words) at position 233 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (57 words) at position 235 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (77 words) at position 236 - consider breaking up",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'support' used 21 times - consider varying vocabulary",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'financial' used 22 times - consider varying vocabulary",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (42 words) at position 1 - consider breaking up",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (161 words) at position 141 - consider breaking up",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (157 words) at position 204 - consider breaking up",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (44 words) at position 242 - consider breaking up",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'textures' used 44 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'diversity' used 24 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'textured' used 31 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'cultural' used 34 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'diverse' used 21 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'clients' used 21 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'texture' used 90 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'product' used 26 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'education' used 22 times - consider varying vocabulary",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (44 words) at position 1 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 10 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (42 words) at position 20 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (89 words) at position 21 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 137 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (177 words) at position 157 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (54 words) at position 212 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 213 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (59 words) at position 214 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (48 words) at position 218 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (45 words) at position 232 - consider breaking up",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (209 words) at position 1 - consider breaking up",
+      "file": "3-TableOfContents.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 1 - consider breaking up",
+      "file": "30-SelfAssessment.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (65 words) at position 11 - consider breaking up",
+      "file": "30-SelfAssessment.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Grammar suggestion: Consider 'its' instead of 'it's' (possessive) - 'it's time'",
+      "file": "31-affirmations-close.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (41 words) at position 16 - consider breaking up",
+      "file": "31-affirmations-close.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (49 words) at position 7 - consider breaking up",
+      "file": "32-continued-learning-commitment.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (44 words) at position 8 - consider breaking up",
+      "file": "32-continued-learning-commitment.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (51 words) at position 9 - consider breaking up",
+      "file": "32-continued-learning-commitment.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 10 - consider breaking up",
+      "file": "32-continued-learning-commitment.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (80 words) at position 11 - consider breaking up",
+      "file": "32-continued-learning-commitment.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 24 - consider breaking up",
+      "file": "33-Acknowledgments.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 17 - consider breaking up",
+      "file": "34-AbouttheAuthor.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (101 words) at position 4 - consider breaking up",
+      "file": "38-journal-page.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (104 words) at position 18 - consider breaking up",
+      "file": "38-journal-page.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (100 words) at position 3 - consider breaking up",
+      "file": "39-professional-development.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (65 words) at position 10 - consider breaking up",
+      "file": "4-Dedication.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (136 words) at position 8 - consider breaking up",
+      "file": "41-self-care-journal.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (173 words) at position 3 - consider breaking up",
+      "file": "43-DoodlePage.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'https' used 119 times - consider varying vocabulary",
+      "file": "44-bibliography.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'accessed' used 87 times - consider varying vocabulary",
+      "file": "44-bibliography.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'march' used 88 times - consider varying vocabulary",
+      "file": "44-bibliography.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'salon' used 21 times - consider varying vocabulary",
+      "file": "44-bibliography.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'beauty' used 32 times - consider varying vocabulary",
+      "file": "44-bibliography.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "7-Preface.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 3 - consider breaking up",
+      "file": "7-Preface.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (46 words) at position 5 - consider breaking up",
+      "file": "7-Preface.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Possible misspelling: 'clientele' → 'clientele'",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'clients' used 34 times - consider varying vocabulary",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'actionable' used 27 times - consider varying vocabulary",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Word 'steps' used 28 times - consider varying vocabulary",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Very long sentence (43 words) at position 110 - consider breaking up",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "10-chapter-ii-refining-your-creative-toolkit.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "11-chapter-iii-reigniting-your-creative-fire.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "11-chapter-iii-reigniting-your-creative-fire.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "11-chapter-iii-reigniting-your-creative-fire.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "15-chapter-vi-mastering-the-business-of-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "16-chapter-vii-embracing-wellness-and-self-care.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "17-chapter-viii-advancing-skills-through-continuous-education.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "19-chapter-ix-stepping-into-leadership.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "20-chapter-x-crafting-enduring-legacies.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect title page structure",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect quiz section",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Missing or incorrect worksheet section",
+      "file": "9-chapter-i-unveiling-your-creative-odyssey.xhtml",
+      "type": "warning"
+    },
+    {
+      "message": "Image file too large: 1.83MB (should be < 1MB)",
+      "file": "ruled-paper.PNG",
+      "type": "warning"
+    }
+  ],
+  "detailed_fixes": []
+}
