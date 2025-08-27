@@ -1,0 +1,18 @@
+===========================================
+SPELLING VALIDATION REPORT
+Generated: Wed Aug 27 09:01:21 UTC 2025
+===========================================
+
+File: 1-TitlePage.xhtml
+----------------------------------------
+SPELLING ERRORS FOUND:
+Aspell detected errors:
+  → Running aspell check...
+Hunspell detected errors:
+  → Running hunspell check...
+
+===========================================
+SUMMARY
+Files processed: 1
+Total potential errors: 1
+===========================================
