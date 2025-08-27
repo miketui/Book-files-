@@ -1,0 +1,38 @@
+# EPUB Validation Reports
+validation_reports_*/
+*-report.txt
+aspell-personal.txt
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+.Spotlight-V100
+.Trashes
+*.log
+
+# EPUB working files (keep in repo for now)
+# *.epub
+# OEBPS/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
