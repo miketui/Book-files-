@@ -1,0 +1,1 @@
+ACISS TEMPLATE COMPLIANCE REPORT\n==================================================\n\n❌ COMPLIANCE ISSUES FOUND (2 total)\n\n1. 20-chapter-x-crafting-enduring-legacies.xhtml: Quiz contains embedded answers\n2. 27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml: Quiz contains embedded answers\n

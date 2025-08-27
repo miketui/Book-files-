@@ -1,0 +1,9 @@
+MANIFEST & SPINE AUDIT REPORT
+==================================================
+
+❌ AUDIT FOUND 4 ISSUES
+
+1. Reading order issue: text/2-copyright.xhtml (#2) after #19
+2. Reading order issue: text/3-tableofcontents.xhtml (#3) after #28
+3. Reading order issue: text/4-dedication.xhtml (#4) after #39
+4. Reading order issue: text/5-selfassessment.xhtml (#5) after #44
