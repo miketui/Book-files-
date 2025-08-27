@@ -52,7 +52,19 @@ Files use numeric prefixes (01-44) for ordering, not matching chapter numbers. K
 ### Validation and QA
 ```bash
 # EPUB validation (requires epubcheck)
-epubcheck book.epub
+./validate-epub.sh [epub-file]          # Uses local Java + epubcheck
+./validate-epub.sh                      # Validates curls-and-contemplation.epub
+
+# XML/XHTML validation
+./validate-xml.sh file.xhtml            # Validate single XHTML file
+./validate-xml.sh *.xhtml              # Validate all XHTML files
+
+# Manual commands (if needed)
+export JAVA_HOME=/Users/yurielyoung/Book-files-/jdk-11.0.2.jdk/Contents/Home
+export PATH=$JAVA_HOME/bin:$PATH
+java -jar epubcheck-4.2.6/epubcheck.jar book.epub
+xmlstarlet val -w file.xhtml            # Well-formedness check
+tidy -xml -errors file.xhtml            # XHTML compliance check
 
 # CSS validation
 # Use W3C CSS Validator or built-in tools
