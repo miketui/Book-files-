@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Curls & Contemplation: A Stylist’s Interactive Journey Journal</dc:title>
+    <dc:creator>MD Warren</dc:creator>
+    <dc:identifier id="BookId">urn:uuid:9fa5e2ef-5fd8-4f5b-9077-0b9e856cda3d</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:date>2025-05-27</dc:date>
+    <dc:rights>© 2025 MD Warren. All rights reserved.</dc:rights>
+    <dc:publisher>MD Warren</dc:publisher>
+    <dc:subject>Beauty</dc:subject>
+    <dc:subject>Business</dc:subject>
+    <dc:subject>Personal Development</dc:subject>
+    <dc:subject>Hairstyling</dc:subject>
+    <meta property="dcterms:modified">2025-01-27T10:00:00Z</meta>
+  </metadata>
+  
+  <manifest>
+    <item id="text001" href="text/1-titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text002" href="text/10-chapter-ii-refining-your-creative-toolkit.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text003" href="text/11-chapter-iii-reigniting-your-creative-fire.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text004" href="text/12-part-ii-building-your-professional-practice.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text005" href="text/13-chapter-iv-the-art-of-networking-in-freelance-hairstyling.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text006" href="text/14-chapter-v-cultivating-creative-excellence-through-mentorship.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text007" href="text/15-chapter-vi-mastering-the-business-of-hairstyling.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text008" href="text/16-chapter-vii-embracing-wellness-and-self-care.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text009" href="text/17-chapter-viii-advancing-skills-through-continuous-education.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text010" href="text/18-part-iii-advanced-business-strategies.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text011" href="text/19-chapter-ix-stepping-into-leadership.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text012" href="text/2-copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text013" href="text/20-chapter-x-crafting-enduring-legacies.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text014" href="text/21-chapter-xi-advanced-digital-strategies-for-freelance-hairstylists.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text015" href="text/22-chapter-xii-financial-wisdom-building-sustainable-ventures.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text016" href="text/23-chapter-xiii-embracing-ethics-and-sustainability-in-hairstyling.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text017" href="text/24-part-iv-future-focused-growth.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text018" href="text/25-chapter-xiv-the-impact-of-ai-on-the-beauty-industry.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text019" href="text/26-chapter-xv-cultivating-resilience-and-well-being-in-hairstyling.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text020" href="text/27-chapter-xvi-tresses-and-textures-embracing-diversity-in-hairstyling.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text021" href="text/28-conclusion.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text022" href="text/29quizkey.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text023" href="text/3-tableofcontents.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text024" href="text/30-selfassessment.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text025" href="text/31-affirmations-close.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text026" href="text/32-continued-learning-commitment.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text027" href="text/33-acknowledgments.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text028" href="text/34-abouttheauthor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text029" href="text/35-curlscontempcollective.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text030" href="text/36-journalingstart.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text031" href="text/37-manifestingjournal.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text032" href="text/38-journal-page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text033" href="text/39-professional-development.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text034" href="text/4-dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text035" href="text/40-smartgoals.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text036" href="text/41-self-care-journal.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text037" href="text/42-visionjournal.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text038" href="text/43-doodlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text039" href="text/44-bibliography.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text040" href="text/5-selfassessment.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text041" href="text/6-affirmation-odyssey.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text042" href="text/7-preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text043" href="text/8-part-i-foundations-of-creative-hairstyling.xhtml" media-type="application/xhtml+xml"/>
+    <item id="text044" href="text/9-chapter-i-unveiling-your-creative-odyssey.xhtml" media-type="application/xhtml+xml"/>
+    <item id="css1" href="styles/style.css" media-type="text/css"/>
+    <item id="css2" href="styles/fonts.css" media-type="text/css"/>
+    <item id="font1" href="fonts/Montserrat-Regular.woff2" media-type="font/woff2"/>
+    <item id="font2" href="fonts/Montserrat-Bold.woff2" media-type="font/woff2"/>
+    <item id="font3" href="fonts/librebaskerville-regular.woff2" media-type="font/woff2"/>
+    <item id="font4" href="fonts/librebaskerville-italic.woff2" media-type="font/woff2"/>
+    <item id="font5" href="fonts/librebaskerville-bold.woff2" media-type="font/woff2"/>
+    <item id="font6" href="fonts/CinzelDecorative.woff2" media-type="font/woff2"/>
+    <item id="img1" href="images/decorative-line.JPEG" media-type="image/jpeg"/>
+    <item id="img2" href="images/endnote-marker.PNG" media-type="image/png"/>
+    <item id="img3" href="images/chapter-iv-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img4" href="images/toc-divider.PNG" media-type="image/png"/>
+    <item id="img5" href="images/Michael.JPEG" media-type="image/jpeg"/>
+    <item id="img6" href="images/brushstroke.JPEG" media-type="image/jpeg"/>
+    <item id="img7" href="images/part-border.JPEG" media-type="image/jpeg"/>
+    <item id="img8" href="images/chapter-xiv-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img9" href="images/chapter-iii-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img10" href="images/quote-marks.PNG" media-type="image/png"/>
+    <item id="img11" href="images/chapter-xi-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img12" href="images/chapter-v-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img13" href="images/chapter-vii-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img14" href="images/chapter-x-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img15" href="images/preface-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img16" href="images/chapter-xiii-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img17" href="images/chapter-vi-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img18" href="images/chapter-frame.PNG" media-type="image/png"/>
+    <item id="img19" href="images/chapter-ii-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img20" href="images/quiz-checkbox.PNG" media-type="image/png"/>
+    <item id="img21" href="images/chapter-viii-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img22" href="images/conclusion-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img23" href="images/chapter-xvi-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img24" href="images/crown-ornament.PNG" media-type="image/png"/>
+    <item id="img25" href="images/chapter-xii-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img26" href="images/chapter-ix-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img27" href="images/chapter-i-quote.JPEG" media-type="image/jpeg"/>
+    <item id="img28" href="images/ruled-paper.PNG" media-type="image/png"/>
+    <item id="img29" href="images/chapter-xv-quote.JPEG" media-type="image/jpeg"/>
+  </manifest>
+  
+  <spine>
+    <itemref idref="text001"/>
+    <itemref idref="text002"/>
+    <itemref idref="text003"/>
+    <itemref idref="text004"/>
+    <itemref idref="text005"/>
+    <itemref idref="text006"/>
+    <itemref idref="text007"/>
+    <itemref idref="text008"/>
+    <itemref idref="text009"/>
+    <itemref idref="text010"/>
+    <itemref idref="text011"/>
+    <itemref idref="text012"/>
+    <itemref idref="text013"/>
+    <itemref idref="text014"/>
+    <itemref idref="text015"/>
+    <itemref idref="text016"/>
+    <itemref idref="text017"/>
+    <itemref idref="text018"/>
+    <itemref idref="text019"/>
+    <itemref idref="text020"/>
+    <itemref idref="text021"/>
+    <itemref idref="text022"/>
+    <itemref idref="text023"/>
+    <itemref idref="text024"/>
+    <itemref idref="text025"/>
+    <itemref idref="text026"/>
+    <itemref idref="text027"/>
+    <itemref idref="text028"/>
+    <itemref idref="text029"/>
+    <itemref idref="text030"/>
+    <itemref idref="text031"/>
+    <itemref idref="text032"/>
+    <itemref idref="text033"/>
+    <itemref idref="text034"/>
+    <itemref idref="text035"/>
+    <itemref idref="text036"/>
+    <itemref idref="text037"/>
+    <itemref idref="text038"/>
+    <itemref idref="text039"/>
+    <itemref idref="text040"/>
+    <itemref idref="text041"/>
+    <itemref idref="text042"/>
+    <itemref idref="text043"/>
+    <itemref idref="text044"/>
+  </spine>
+</package>
